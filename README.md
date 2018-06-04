@@ -27,3 +27,5 @@ curl -H "Content-type:application/json" --data '{"peer" : "ws://localhost:6001"}
 连接peers
 
 curl http://localhost:3001/peers
+
+对应教程 https://my.oschina.net/lilugirl2005/blog/1823777
